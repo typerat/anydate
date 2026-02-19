@@ -13,6 +13,7 @@ var (
 		"2006-1-2",
 		"2006.1.2",
 		"Jan 2, 2006",
+		"2006:01:02",
 	}
 	monthNames = map[string]int{
 		"jan": 1,
